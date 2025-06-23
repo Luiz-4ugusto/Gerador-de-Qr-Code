@@ -18,7 +18,7 @@ O sistema é totalmente funcional no navegador e foi construído com tecnologias
 | **HTML5**       | Estrutura do conteúdo da aplicação                        |
 | **CSS3**        | Estilização e layout responsivo                           |
 | **JavaScript**  | Lógica para gerar QR Code dinamicamente                   |
-| **QRServer API	** | Geração do código visual do QR Code             |
+| **QRServer API** | Geração do código visual do QR Code             |
 | **Visual Studio Code**     | Ambiente de desenvolvimento (IDE)                         |
 
 
