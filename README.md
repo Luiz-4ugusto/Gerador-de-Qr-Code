@@ -1,4 +1,4 @@
-# Gerador de QR Code
+# 📱Gerador de QR Code
 
 Este projeto foi desenvolvido como parte do meu aprendizado em um curso de desenvolvimento front-end. A aplicação tem como objetivo permitir que o usuário gere um QR Code de forma simples e rápida, com base em um link ou texto inserido.
 
